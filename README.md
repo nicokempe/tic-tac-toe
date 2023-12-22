@@ -21,7 +21,7 @@ To set up the Vue.js Tic-Tac-Toe Game, follow these instructions:
 1. **Clone the Repository**:
    Clone the repository to your local machine.
    ```bash
-   git clone https://github.com/yourusername/vue-tic-tac-toe.git
+   git clone https://github.com/nicokempe/tic-tac-toe.git
    ```
 
 2. **Install dependencies**:
