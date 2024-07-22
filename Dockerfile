@@ -1,4 +1,4 @@
-FROM node:21.7.3-bullseye-slim@sha256:788417c15fd7e0fde36a592e70c06fdb9b0a553733ad036e118ece9950d0d35e AS production
+FROM node:22.5.1-bullseye-slim@sha256:9e8b352001691ae3859ecb56a733eba26af4fb7da79d5a3c999ae21b628b5cfd AS production
 WORKDIR /app
 COPY package*.json ./
 RUN npm ci
